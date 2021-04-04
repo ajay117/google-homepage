@@ -44,6 +44,13 @@ footer p {
   padding-left: 20px;
   padding-top: 10px;
 }
+input[type="search"] {
+  border: 1px solid rgb(227, 227, 235);
+  border-radius: 35px;
+  outline: none;
+  padding: 20px 20px;
+  color: rgb(8, 8, 8);
+}
 /* Classes */
 .icon {
   position: relative;
